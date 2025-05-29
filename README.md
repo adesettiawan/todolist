@@ -1,4 +1,4 @@
-# Aplikasi Todo List (Fullstack Developer Technical Test)
+# Aplikasi Todo List
 
 Selamat datang di aplikasi Todo List! Aplikasi ini memungkinkan Anda untuk mencatat, mengelola, dan melacak tugas-tugas Anda. Anda bisa menambahkan tugas baru, menandainya sebagai selesai, mengedit, menghapus, bahkan mengubah urutan tugas.
 
